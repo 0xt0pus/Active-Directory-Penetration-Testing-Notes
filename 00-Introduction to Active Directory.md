@@ -1,4 +1,5 @@
 
+## Active Directory
 - Active Directory is a directory service developed by Microsoft for windows domain network. 
 - It serves as centralized repository for managing and organizing information about network resources, such as users, computers, groups and other devices. 
 - It provides wide range of service related to identity and access management within a network environment. 
