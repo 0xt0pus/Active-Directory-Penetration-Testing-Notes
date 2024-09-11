@@ -1,6 +1,6 @@
 # Active Directory Penetration Testing
 
-This repository contains introductory concepts and attacks of the Active Directory Penetration Testing. 
+This repository contains introductory concepts of the Active Directory Penetration Testing. 
 
 Notes from the following topics are included in this repository. 
 
