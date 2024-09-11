@@ -1,11 +1,11 @@
 
 ### Kill Chain #1
-![[Pasted image 20240703220841.png]]
+![[https://raw.githubusercontent.com/0xt0pus/Active-Directory-Penetration-Testing-Notes/main/Images/Pasted%20image%2020240703220841.png]]
 
 
 
 ### Kill Chain #2 
-![[Pasted image 20240703220904.png]]
+![[https://raw.githubusercontent.com/0xt0pus/Active-Directory-Penetration-Testing-Notes/main/Images/Pasted%20image%2020240703220904.png]]
 
 
 
